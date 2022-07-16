@@ -159,6 +159,12 @@
     width: 800px;
 }
 
+.primary-inner {
+    margin-top: 20px;
+    width: 800px;
+    height: 489px;
+}
+
 .secondary {
     width: 402px;
     min-width: 300px;
