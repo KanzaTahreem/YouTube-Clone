@@ -109,6 +109,7 @@
     display: flex;
     min-width: 225px;
     justify-content: flex-end;
+    align-items: center;
 }
 
 .right-btns {
@@ -154,3 +155,12 @@
     height: 350vh;
 }
 
+.primary {
+    width: 800px;
+}
+
+.secondary {
+    width: 402px;
+    min-width: 300px;
+    padding-left: 22px;
+}
