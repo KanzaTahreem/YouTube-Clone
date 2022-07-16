@@ -253,3 +253,92 @@ h1 {
     display: flex;
     height: 95px;
 }
+
+.thumbnail {
+    margin-right: 10px;
+    height: 88px;
+    width: 150px;
+    flex: none;
+}
+
+img {
+    height: 88px;
+    width: 150px;
+}
+
+.overlay {
+    position: absolute;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 3px 4px;
+    height: 12px;
+    border-radius: 2px;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 1.1px;
+    letter-spacing:0.5px;
+    align-items: center;
+    display: flex;
+    margin-left: 115px;
+    margin-top: 0px;
+}
+
+.a {top: 140px;}
+
+.thumbnail-details {
+    min-width: 0;
+    width: 100%;
+   
+}
+
+.details {
+    min-width: 0;
+    width: 100%;
+    padding-right: 24px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+
+.link {
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+h3 {
+    font-size: 13px;
+    margin-block-end: 1em;
+    color: #464040;
+}
+
+.secondary-details {
+    display: flex;
+    flex-direction: column;
+}
+
+.secondary-details > a {
+    text-decoration: none;
+}
+
+.channel-name {
+    color: grey;
+    font-size: 11px;
+    margin-bottom: 5px;
+    display: flex;
+}
+
+.fa-circle-check {
+    margin-left: 3px;
+}
+
+.views {
+    color: grey;
+    font-size: 11px;
+    display: flex;
+}
+
+.views > p::after{
+    content: "•";
+    margin: 0 4px;
+}
