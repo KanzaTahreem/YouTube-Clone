@@ -458,6 +458,21 @@ h4 {
     color: #423e3e;
 }
 
+.view-reply {
+    color: blue;
+    font-size: 12px ;
+}
+
+.view-reply i {
+    display: flex;
+    padding-top: 15px;
+    font-weight: 700;
+}
+
+.view-reply p {
+    padding-left: 10px;
+}
+
 /*secondary-div*/
 
 .secondary {
