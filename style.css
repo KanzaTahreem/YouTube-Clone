@@ -370,6 +370,14 @@ h1 {
     line-height: 20px;
 }
 
+.comments {
+    margin-bottom: 30px;
+}
+
+.comment {
+    display: flex;
+}
+
 /*secondary-div*/
 
 .secondary {
