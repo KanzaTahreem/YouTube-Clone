@@ -170,6 +170,17 @@
     height: 502px;
 }
 
+.video-title {
+    padding: 8px 0 8px 0;
+    border-bottom: 1px solid #0000001a;
+}
+
+.meta-description {
+    border-bottom: 1px solid #0000001a;;
+    margin-bottom: 24px;
+    padding-bottom: 16px;
+}
+
 .secondary {
     width: 402px;
     min-width: 300px;
