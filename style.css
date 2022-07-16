@@ -165,6 +165,11 @@
     height: 489px;
 }
 
+.video-player > iframe {
+    width: 800px;
+    height: 502px;
+}
+
 .secondary {
     width: 402px;
     min-width: 300px;
