@@ -175,6 +175,54 @@
     border-bottom: 1px solid #0000001a;
 }
 
+h1 {
+    line-height: 2.6rem;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.title-footer {
+    display: flex;
+    align-items: center;
+    padding-bottom: 5px;
+}
+
+.count {
+    color: #606060;
+    display: flex;
+    font-size: 13px;
+}
+
+.count > p::after{
+    content: "•";
+    margin: 0 4px;
+}
+
+.footer-center {
+    flex: 1;
+}
+
+.footer-right-icons {
+    display: flex;
+}
+
+.icons {
+    margin-right: 15px;
+}
+
+.like, .dislike, .share, .save, .more {
+    display: flex;
+    font-size: 18px;
+    align-items: center;
+}
+
+.icons  p {
+    padding-left: 7px;
+    font-size: 12px;
+    color: #030303;
+    font-weight: 600;
+}
+
 .meta-description {
     border-bottom: 1px solid #0000001a;;
     margin-bottom: 24px;
