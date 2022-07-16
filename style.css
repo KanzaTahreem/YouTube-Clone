@@ -235,6 +235,57 @@ h1 {
     display: flex;
 }
 
+.fa-circle-t {
+    font-size: 45px;
+    color: forestgreen;
+}
+
+.current-channel {
+    display: flex;
+    flex: 1;
+}
+
+.channel-avatar {
+    margin-right: 16px;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+}
+
+.current-channel-name {
+    flex: 1;
+    flex-basis: 1e-9px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.current-channel-name > a {
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.current-channel-name > p {
+    font-size: 11px;
+    padding-top: 5px;
+    color: #4e4a4a;
+}
+
+.subscribe-btn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #c00;
+    color: white;
+    font-size: 12px;
+    padding: 0 14px;
+    letter-spacing: 0.6px;
+    height: 36px;
+    font-weight: bold;
+}
+
 .bottom-row {
     margin-left: 64px;
     line-height: 35px;
