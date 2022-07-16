@@ -284,6 +284,51 @@ img {
 }
 
 .a {top: 140px;}
+.b {top: 235px;}
+.c {top: 330px;}
+.d {top: 425px;}
+.e {
+    margin-left: 100px;
+    top: 520px;
+}
+.f {top: 615px;}
+.g {top: 710px;}
+.h {top: 805px;}
+.i {top: 900px;}
+.j {
+    margin-left: 100px;
+    top: 995px;
+}
+.k {
+    top: 1090px;
+}
+.l {
+    margin-left: 100px;
+    top: 1185px;
+}
+.m {
+    margin-left: 110px;
+    top: 1280px;
+}
+.n {
+    margin-left: 110px;
+    top: 1375px;
+}
+.o {
+    margin-left: 110px;
+    top: 1470px;
+}
+.p {
+    margin-left: 110px;
+    top: 1565px;
+}
+.q {
+    margin-left: 110px;
+    top: 1660px;
+}
+.r {top: 1755px;}
+.s {top: 1850px;}
+.t {top: 1945px;}
 
 .thumbnail-details {
     min-width: 0;
