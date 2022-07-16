@@ -234,3 +234,22 @@ h1 {
     min-width: 300px;
     padding-left: 22px;
 }
+
+.secondary-inner {
+    padding-top: 20px;
+}
+
+.related-videos {
+    display: flex;
+    flex-direction: column;
+}
+
+.items {
+    display: flex;
+    flex-direction: column;
+}
+
+.item {
+    display: flex;
+    height: 95px;
+}
