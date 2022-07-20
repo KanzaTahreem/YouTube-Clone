@@ -144,7 +144,6 @@
     display: flex;
     padding-top: 48px;
     background-color: #f8f8f8;
-    height: 350vh;
 }
 
 #primary {
@@ -154,7 +153,6 @@
 #primary-inner {
     margin-top: 20px;
     width: 800px;
-    height: 489px;
 }
 
 #video-player > iframe {
