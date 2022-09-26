@@ -8,8 +8,8 @@ An exact replica of a Youtube Page isn't required. The understanding of `working
 The goal here is to create a replica of [Youtube's Video Player](https://www.youtube.com/watch?v=V74l_zS1x8E&ab_channel=TheOdinProject) page using HTML and CSS. 
 
 ## Built with
-1. HTML5
-2. CSS3
+1. HTML
+2. CSS
 
 ## Live Demo
 
