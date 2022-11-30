@@ -5,8 +5,8 @@ Further information can be found at [The Odin Project](https://github.com/TheOdi
 The goal here is to create a replica of [Youtube's Video Player](https://www.youtube.com/watch?v=V74l_zS1x8E&ab_channel=TheOdinProject) page using HTML and CSS. 
 
 ## Built with
-1. HTML
-2. CSS
+- HTML
+- CSS
 
 ## Live Demo
 
